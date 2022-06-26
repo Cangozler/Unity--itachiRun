@@ -4,5 +4,5 @@ Like a flappy bird but little different <br>
 
 
 
-https://user-images.githubusercontent.com/66225279/175832385-43834186-dfab-448e-a917-4e35c47b79e6.mp4
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Cangozler/Unity--itachiRun/blob/main/vids/1.mp4)
 
